@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Sawaab.in — The Best Deed Is to Help Others">
+  <title>Sawaab.in — social banner 1280x640</title>
+  <defs>
+    <linearGradient id="sawBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B4F41"/>
+      <stop offset="1" stop-color="#10755F"/>
+    </linearGradient>
+    <clipPath id="sawHalfR4"><rect x="64" y="0" width="64" height="128"/></clipPath>
+  </defs>
+  <rect width="1280" height="640" fill="url(#sawBg)"/>
+  <g transform="translate(499 119) scale(2.2)">
+    <path fill="#FFFFFF" d="M64 79C64 79 26 57 26 35.5C26 23.5 35.5 15 46 15C54.5 15 61 20.5 64 26.5C67 20.5 73.5 15 82 15C92.5 15 102 23.5 102 35.5C102 57 64 79 64 79Z"/>
+    <path fill="#FFC24D" clip-path="url(#sawHalfR4)" d="M64 79C64 79 26 57 26 35.5C26 23.5 35.5 15 46 15C54.5 15 61 20.5 64 26.5C67 20.5 73.5 15 82 15C92.5 15 102 23.5 102 35.5C102 57 64 79 64 79Z"/>
+    <g fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round">
+      <path d="M17 85C25 101 43 110 64 110"/>
+      <path d="M111 85C103 101 85 110 64 110"/>
+    </g>
+    <path fill="#FFC24D" d="M104 6L106.2 11.8L112 14L106.2 16.2L104 22L101.8 16.2L96 14L101.8 11.8Z"/>
+  </g>
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle">
+    <text x="640" y="449" font-size="96" font-weight="700" letter-spacing="1" fill="#FFFFFF">Sawaab<tspan fill="#FFC24D">.in</tspan></text>
+    <text x="640" y="503" font-size="24" font-weight="600" letter-spacing="5" fill="#D9EFE8">THE BEST DEED IS TO HELP OTHERS</text>
+  </g>
+</svg>

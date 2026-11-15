@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 190" width="580" height="190" role="img" aria-label="Sawaab.in — monochrome">
+  <title>Sawaab.in — monochrome</title>
+  <g transform="translate(16 22) scale(1.15)" fill="#111111">
+    <path d="M64 79C64 79 26 57 26 35.5C26 23.5 35.5 15 46 15C54.5 15 61 20.5 64 26.5C67 20.5 73.5 15 82 15C92.5 15 102 23.5 102 35.5C102 57 64 79 64 79Z"/>
+    <g fill="none" stroke="#111111" stroke-width="9" stroke-linecap="round">
+      <path d="M17 85C25 101 43 110 64 110"/>
+      <path d="M111 85C103 101 85 110 64 110"/>
+    </g>
+    <path d="M104 6L106.2 11.8L112 14L106.2 16.2L104 22L101.8 16.2L96 14L101.8 11.8Z"/>
+  </g>
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" fill="#111111">
+    <text x="192" y="93" font-size="58" font-weight="700" letter-spacing="0.5">Sawaab.in</text>
+    <text x="195" y="128" font-size="12.5" font-weight="600" letter-spacing="2.6" fill-opacity="0.6">THE BEST DEED IS TO HELP OTHERS</text>
+  </g>
+</svg>

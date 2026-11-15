@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo/sawaab-logo.svg" alt="Sawaab.in — The Best Deed Is to Help Others" width="420" />
+</div>
+
 # Sawaab.in – Best Deed Do Help ❤️
 
 **"The Best Deed Is to Help Others."**
@@ -53,6 +57,23 @@ To build a society where:
 Change begins with small steps. Your contribution, whether through volunteering, donations, or spreading awareness, can make a meaningful difference in someone's life.
 
 Together, we can educate a child, feed a family, and spread hope.
+
+## 🎨 Logo & Brand Assets
+
+The official logo lives in the [`logo/`](logo/) folder — open **`logo/preview.html`** in a browser to see the full brand sheet.
+
+| File | Purpose |
+|------|---------|
+| `logo/sawaab-logo.svg` | Primary horizontal logo (light backgrounds) |
+| `logo/sawaab-logo-vertical.svg` | Stacked logo for square placements |
+| `logo/sawaab-logo-dark.svg` | Logo for dark backgrounds |
+| `logo/sawaab-logo-mono.svg` | Single-colour print / watermark version |
+| `logo/sawaab-icon.svg` | Icon-only mark |
+| `logo/sawaab-favicon.svg` | Browser favicon |
+| `logo/sawaab-social-banner.svg` | 1280×640 banner for GitHub / social |
+| `logo/png/` | Ready-to-use PNG exports |
+
+**Meaning:** the heart stands for compassion — its two halves are our two pillars, education (green) and food (amber); the cupped hands represent community support; the spark above stands for hope — the *sawaab* (reward) of every good deed.
 
 ## 🌐 Website
 
